@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: mitratul
+Main-Class: inventorycontroller.Main
+SplashScreen-Image: resources/splash.png
+
+

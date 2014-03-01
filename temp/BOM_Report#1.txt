@@ -1,0 +1,67 @@
+                        ============================================================
+                        #                   * BILL OF MATERIAL *                   #
+                        #                     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                     #
+                        #                                                          #
+                        #         SREE CHAND ELECTRICAL INDUSTRIES PVT. LTD.       #
+                        ============================================================
+
+
+
+B. O. M. NO.      BOM/00000000/07-08 OF DATE 04-10-2007
+JOB NO.           jb1
+DESCRIPTION       PRD/07-08/000    QUANTITY 10
+CUSTOMER P.O. NO. cpo/09
+
+ Item Code                                            Required Qty.                                         
+ Description                                                 (unit)   Rate (Rs./unit)          Amount (Rs.) 
+------------------------------------------------------------------------------------------------------------
+ MAT/07-08/0000                                                10.0                                         
+ Cabinate & Aluminium front plate (SC/VR/FR-1/98)             piece          ________              ________ 
+
+ MAT/07-08/0004                                                10.0                                         
+ Amp. Meter 0-10 Amp. (AE/MECO)                                 pcs              20.0                 200.0 
+
+ MAT/07-08/0008                                                20.0                                         
+ Voltmeter 0-300v (red mark 230v)                               pcs              30.0                 600.0 
+
+ MAT/07-08/0009                                                20.0                                         
+ LED with holder - Red 10 mm                                   sets             21.54                430.76 
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                              B.    O.    M.    T O T A L                                        __________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+
+Remarks:  mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+         mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+         mmmmmmmmmmmmmmmmmmmmmmmmm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

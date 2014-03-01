@@ -1,0 +1,67 @@
+                                   ============================================================
+                                   #                  * MATERIAL COST SHEET *                 #
+                                   #                    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                   #
+                                   #                                                          #
+                                   #         SREE CHAND ELECTRICAL INDUSTRIES PVT. LTD.       #
+                                   ============================================================
+
+
+
+JOB NO.          jb6
+START DATE       04-10-2007        END DATE  06-10-2007
+JOB DESCRIPTION  PRD/07-08/003: FRVR 5 KVA - IRS-S-74/89        QUANTITY  20
+
+B. O. M. NO.     BOM/00000003/07-08    OF DATE 04-10-2007
+
+
+ Item Code                       Voucher No. of Date        General                                                               
+ Description                                                   Qty.  General Amt.                                                 
+                                                          Excisable     Excisable       Total                    VAT /     Excise 
+                                                               Qty.          Amt.    Quantity   Total Amount       CST       Duty 
+----------------------------------------------------------------------------------------------------------------------------------
+ O P E N I N G    B A L A N C E  01-04-2007                                               0.0            0.0       0.0        0.0 
+
+
+ MAT/07-08/0007                  RQN/00000003/07-08 of                                                                            
+ Amp. Meter 0-60 Amp. (AE/MECO)  Date 05-10-2007                0.0           0.0                                                 
+ (unit: pcs)                                                   10.0         260.0        10.0          260.0       0.0       40.0 
+
+ MAT/07-08/0009                  RQN/00000003/07-08 of                                                                            
+ LED with holder - Red 10 mm     Date 05-10-2007                0.0           0.0                                                 
+ (unit: sets)                                                  20.0        487.29        20.0         487.29      18.4       60.0 
+
+ MAT/07-08/0007                  RET/00000002/07-08 of                                                                            
+ Amp. Meter 0-60 Amp. (AE/MECO)  Date 05-10-2007               -0.0          -0.0                                                 
+ (unit: pcs)                                                  -10.0        -260.0       -10.0         -260.0      -0.0      -40.0 
+
+ MAT/07-08/0009                  RET/00000002/07-08 of                                                                            
+ LED with holder - Red 10 mm     Date 05-10-2007               -0.0          -0.0                                                 
+ (unit: sets)                                                  -5.0       -121.82        -5.0        -121.82      -4.6      -15.0 
+
+ MAT/07-08/0009                  RET/00000003/07-08 of                                                                            
+ LED with holder - Red 10 mm     Date 05-10-2007               -0.0          -0.0                                                 
+ (unit: sets)                                                 -12.0       -292.37       -12.0        -292.37    -11.04      -36.0 
+
+ MAT/07-08/0007                  RQN/00000004/07-08 of                                                                            
+ Amp. Meter 0-60 Amp. (AE/MECO)  Date 06-10-2007                0.0           0.0                                                 
+ (unit: pcs)                                                   10.0         260.0        10.0          260.0       0.0       40.0 
+
+ MAT/07-08/0009                  RQN/00000004/07-08 of                                                                            
+ LED with holder - Red 10 mm     Date 06-10-2007                0.0           0.0                                                 
+ (unit: sets)                                                  17.0         414.2        17.0          414.2     15.64       51.0 
+
+
+ C L O S I N G    B A L A N C E  07-10-2007                                              30.0         747.29      18.4      100.0 
+__________________________________________________________________________________________________________________________________
+
+Remarks:
+
+
+
+
+
+
+
+
+
+
